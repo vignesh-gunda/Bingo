@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@alien_org/bridge": "^0.2.4",
+    "@alien_org/react": "^0.2.7"
+  }
+}
